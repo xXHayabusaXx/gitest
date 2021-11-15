@@ -17,7 +17,7 @@ La coke et les putes
 Ecrivez des choses SVP...
 
 ## Mon nouveau tube
-
+```
 C'est pas l'homme qui prend la mer
 C'est la mer qui prend l'homme tadadaaa
 moi la mer elle m'a prise
@@ -36,4 +36,5 @@ les poissons baisent dedans
 dès que le vent soufflera 
 je repartira
 dès que les vents souffleront
-nous nous en alleront 
+nous nous en alleront
+``` 
