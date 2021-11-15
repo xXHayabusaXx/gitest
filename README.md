@@ -1,6 +1,6 @@
 # Gitest
 
-It's a test you retard!
+I'm following this formation coz' I wanna get rich af!
 
 ## Getting started
 
