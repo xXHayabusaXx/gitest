@@ -8,8 +8,8 @@ La coke et les putes
 
 ## To Do
 
-- [] Rachetez Amazon
-- [] Rachetez OVH
+- [ ] Rachetez Amazon
+- [ ] Rachetez OVH
 
 ## Commentaires
 
