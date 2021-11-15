@@ -16,7 +16,6 @@ La coke et les putes
 
 Ecrivez des choses SVP...
 
-
 ## Mon nouveau tube
 
 C'est pas l'homme qui prend la mer
