@@ -11,13 +11,14 @@ La coke et les putes
 - [x] Rachetez Amazon
 - [ ] Rachetez OVH
 - [ ] Acheter une AE86
+
 ## Commentaires
 
 Ecrivez des choses SVP...
 des choses SVP...
 
-## Gangsta Paradise
-
+## Mon nouveau tube
+'''
 As I walk through the valley of the shadow of death
 I take a look at my life and realize there's nothin' left
 'Cause I've been blastin' and laughin' so long that
@@ -80,9 +81,29 @@ Tell me why are we so blind to see
 That the ones we hurt are you and me?
 Tell me why are we so blind to see
 That the ones we hurt are you and me?
-
+'''
 
 ### ATTENTION 
 * Ceci est un test
 * On fait mumuz
 Test
+=======
+C'est pas l'homme qui prend la mer
+C'est la mer qui prend l'homme tadadaaa
+moi la mer elle m'a prise
+jme souviens... un mardiiiii
+
+j'ai troqué mes santiags     
+et mon cuir un peu zone
+contre une paire de dockside
+et un vieux ciré jaune
+
+j'ai déserté les crasses
+qui m'disaient sois prudent
+la mer c'est degueulasse
+les poissons baisent dedans
+
+dès que le vent soufflera 
+je repartira
+dès que les vents souffleront
+nous nous en alleront 
