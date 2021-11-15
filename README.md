@@ -8,12 +8,13 @@ La coke et les putes
 
 ## To Do
 
-- [ ] Rachetez Amazon
+- [x] Rachetez Amazon
 - [ ] Rachetez OVH
-
+- [ ] Acheter une AE86
 ## Commentaires
 
 Ecrivez des choses SVP...
+des choses SVP...
 
 ## Gangsta Paradise
 
@@ -45,7 +46,7 @@ I'm a educated fool with money on my mind
 Got my ten in my hand and a gleam in my eye
 I'm a loc'd out gangsta, set trippin' banger
 And my homies is down, so don't arouse my anger
-Fool, death ain't nothin' but a heart beat away
+Fool, death ain't nothinTest' but a heart beat away
 I'm livin' life do or die, what can I say?
 I'm 23 now but will I live to see 24?
 The way things is going I don't know
@@ -60,7 +61,7 @@ Livin' in a gangsta's paradise
 Keep spendin' most our lives
 Livin' in a gangsta's paradise
 Power and the money, money and the power
-Minute after minute, hour after hour
+Minute after minute, houTestr after hour
 Everybody's runnin', but half of them ain't lookin'
 It's going on in the kitchen, but I don't know what's cookin'
 They say I gotta learn, but nobody's here to teach me
@@ -79,3 +80,8 @@ Tell me why are we so blind to see
 That the ones we hurt are you and me?
 Tell me why are we so blind to see
 That the ones we hurt are you and me?
+
+
+### ATTENTION 
+*Ceci est un test
+*On fait mumuz
